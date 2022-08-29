@@ -9,6 +9,7 @@ function Navbar() {
             <a href="index.html">
               <img src="" alt="" />
             </a>
+            fjk
           </Col>
           <Col md={7}>ewgEGW</Col>
         </Row>
